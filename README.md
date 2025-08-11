@@ -69,7 +69,7 @@ Finding the right internship can be overwhelming for students, and companies oft
 ![Company Dashboard](./screenshots/micro.png)  
 
 ### AI agent architecture  
-![Company Dashboard](./screenshots/agent (1).png)  
+![Company Dashboard](./screenshots/agent.png)  
 
 ---
 
