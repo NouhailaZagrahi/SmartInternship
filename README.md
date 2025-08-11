@@ -57,13 +57,19 @@ Finding the right internship can be overwhelming for students, and companies oft
 ## 📊 Screenshots
 
 ### Home Page  
-![Home Page](./screenshots/home.png)  
+![Home Page](./screenshots/Picture1.png)  
 
 ### Student Dashboard  
-![Student Dashboard](./screenshots/student-dashboard.png)  
+![Student Dashboard](./screenshots/Picture3.png)  
 
 ### Company Dashboard  
-![Company Dashboard](./screenshots/company-dashboard.png)  
+![Company Dashboard](./screenshots/Picture4.png)  
+
+### Microservices Architecture  
+![Company Dashboard](./screenshots/micro.png)  
+
+### AI agent architecture  
+![Company Dashboard](./screenshots/agent (1).png)  
 
 ---
 
