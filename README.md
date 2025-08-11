@@ -71,21 +71,7 @@ Finding the right internship can be overwhelming for students, and companies oft
 ### AI agent architecture  
 ![Company Dashboard](./screenshots/agent.png)  
 
----
 
-## 🎬 Video Demonstration
-
-Watch our platform in action:  
-[![Watch the demo](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://your-video-demo-link.com)
-
----
-
-## 📄 Presentation
-
-Explore our project’s architecture and features:  
-[View Presentation](https://your-presentation-link.com)
-
----
 
 ## 🔮 Future Enhancements
 
@@ -100,13 +86,6 @@ Explore our project’s architecture and features:
 
 We warmly welcome contributions!  
 Feel free to fork the repo and open pull requests.  
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](./LICENSE) file for details.
 
 ---
 
