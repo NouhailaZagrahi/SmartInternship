@@ -1,0 +1,28 @@
+
+services:
+  eureka-server:
+    build: ./eureka-server
+    ports:
+      - "8761:8761"
+    networks:
+      - microservice-net
+
+  service-stagiaire:
+    build: ./service-stagiaire
+    depends_on:
+      - eureka-server
+    ports:
+      - "8081:8081"
+    networks:
+      - microservice-net
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "4200:80"
+    networks:
+      - microservice-net
+
+networks:
+  microservice-net:
+    driver: bridge

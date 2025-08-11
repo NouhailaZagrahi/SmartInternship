@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/candidature-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enregistrement-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-candidature/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-entreprise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-stagiaire/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceOffre/src/main/java" charset="UTF-8" />
+  </component>
+</project>

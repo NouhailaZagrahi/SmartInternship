@@ -1,0 +1,33 @@
+.feature-item {
+  transition: transform 0.4s ease, border-color 0.4s ease, box-shadow 0.4s ease;
+  border: 2px solid #e0d7f8;
+  border-radius: 16px;
+}
+
+.feature-item:hover {
+  transform: scale(1.05);
+  border-color: #9b7cd4;
+  box-shadow: 0 0 20px rgba(155, 124, 212, 0.2);
+}
+
+.feature-icon {
+  width: 80px;
+  height: 80px;
+  transition: transform 0.3s ease;
+}
+
+.feature-item:hover .feature-icon {
+  transform: rotate(10deg) scale(1.1);
+}
+
+.btn-purple {
+  background-color: #9b7cd4;
+  color: white;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn-purple:hover {
+  background-color: #7c63b1;
+  color: white;
+}

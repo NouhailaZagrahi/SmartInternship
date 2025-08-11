@@ -1,0 +1,13 @@
+.service-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, border 0.3s ease;
+    border: 2px solid #beaddf; /* Contour violet clair initial */
+  }
+  
+  .service-card:hover {
+    transform: translateY(-8px) scale(1.03); /* Zoom + translation */
+    border: 2px solid #5b4691; /* Contour violet plus foncé au survol */
+  }
+  
